@@ -10,5 +10,3 @@
 ### Why the african art of social enginering:
 
 ### Project Milestones
-
-### What to expect from this
