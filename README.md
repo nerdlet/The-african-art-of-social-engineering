@@ -19,6 +19,8 @@
 
 ## Description
 
+Despite the increasing recognition of the psychological nature of cyber attacks, research into the role of psychology in cybersecurity has continued to be undermined. In this session, we would like to engage the audience in some of the social engineering techniques that attackers use to gather sensitive information from the target. Using different activities, we will explore how psychological approaches are applied by African hackers to gain information/sensitive data from unsuspecting internet users.
+
 ### Why the african art of social engineering
 
 ## Open canvas
