@@ -21,16 +21,24 @@
 
 ### Why the african art of social engineering
 
-### Open canvas
+## Open canvas
 
-### Road Map
+## Road Map
 
-### Project Milestone
+Please review our [Roadmap](ROADMAP.md)
 
-### Licence
+## Project Milestone
 
-### Contributing
+## Licence
 
-### Code of conduct
+The project uses [MIT](LICENCE.md)
 
-### Credit
+## Contributing
+
+Please see our [Contributing.md.](CONTRIBUTING.md) document.
+
+## Code of conduct
+
+Please see our [Code of conduct](CODE-OF-CONDUCT.md)
+
+## Credit
