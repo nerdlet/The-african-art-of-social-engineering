@@ -23,11 +23,12 @@
 
 ## Open canvas
 
-## Road Map
+[Open canvas](https://i.imgur.com/uG13Btl.png)
+
+## Road Map/Project Milestone
 
 Please review our [Roadmap](ROADMAP.md)
-
-## Project Milestone
+s
 
 ## Licence
 
