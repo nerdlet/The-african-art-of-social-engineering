@@ -15,7 +15,7 @@
 - [Licence](#licence)
 - [Contributing](#contributing)
 - [Code of conduct](#code-of-conduct)
-- [Credit](#links)
+- [Attribution](#Attribution)
 
 ## Description
 
@@ -43,7 +43,6 @@ Please see our [contributing.md.](CONTRIBUTING.md) document.
 ## Code of conduct
 
 Please see our [Code of conduct](CODE-OF-CONDUCT.md)
-
 
 
 ## Attribution
