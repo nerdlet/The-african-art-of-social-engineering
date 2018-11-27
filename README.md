@@ -38,7 +38,7 @@ The project uses [MIT](LICENCE.md)
 
 ## Contributing
 
-Please see our [Contributing.md.](CONTRIBUTING.md) document.
+Please see our [contributing.md.](CONTRIBUTING.md) document.
 
 ## Code of conduct
 
