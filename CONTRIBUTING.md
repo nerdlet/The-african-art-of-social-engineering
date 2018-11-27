@@ -3,7 +3,7 @@
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
 
-We do grant access to our wiki for contributers who have information that they feel would be of benefit to us. Interested? Head over to [link](https://goo.gl/forms/ptLpV9lEdjMCuG282) form.
+We do grant access to our wiki for contributers who have information that they feel would be of benefit to us. Interested? Head over to [this](https://goo.gl/forms/ptLpV9lEdjMCuG282) form.
 
 We appreciate any type of [feedback](https://goo.gl/forms/LIuskdyumqWGm0gH3) you would have regarding this project!
 
