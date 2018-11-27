@@ -44,4 +44,12 @@ Please see our [Contributing.md.](CONTRIBUTING.md) document.
 
 Please see our [Code of conduct](CODE-OF-CONDUCT.md)
 
-## Credit
+
+
+## Attribution
+
+This attribution is adapted from the [Contributor Covenant][homepage], version 1.4,
+available at [http://contributor-covenant.org/version/1/4][version]
+
+[homepage]: http://contributor-covenant.org
+[version]: http://contributor-covenant.org/version/1/4/
