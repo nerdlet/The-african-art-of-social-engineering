@@ -5,6 +5,8 @@ email, or any other method with the owners of this repository before making a ch
 
 We do grant access to our wiki for contributers who have information that they feel would be of benefit to us. Interested? [link](https://goo.gl/forms/ptLpV9lEdjMCuG282)
 
+We appreciate any type of [feedback](https://goo.gl/forms/LIuskdyumqWGm0gH3) you would have regarding this project!
+
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 ## Pull Request Process
