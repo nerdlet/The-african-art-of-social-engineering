@@ -1,8 +1,9 @@
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change.We do grant access to our wiki for contributers who want to edit it. Here is the [link](https://goo.gl/forms/ptLpV9lEdjMCuG282)
+email, or any other method with the owners of this repository before making a change. 
 
+We do grant access to our wiki for contributers who have information that they feel would be of benefit to us. Interested? [link](https://goo.gl/forms/ptLpV9lEdjMCuG282)
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
